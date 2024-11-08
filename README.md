@@ -18,6 +18,15 @@ Soy un desarrollador apasionado por la programación y la tecnología. Aquí pue
 - ![SweetAlert](https://img.shields.io/badge/SweetAlert-FF5C8D?style=flat&logo=javascript&logoColor=white) 
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 
+## 🛠️ Herramientas
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
+
+  ## 📊 Bases de Datos
+
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) 
+
+
 ## 📫 Conéctame
 
 - [LinkedIn](https://www.linkedin.com/in/luis-montesdeoca-plaza-5b9533337)
